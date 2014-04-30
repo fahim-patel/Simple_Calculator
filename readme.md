@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/fahim-patel/Simple_Calculator.png)](https://codeclimate.com/github/fahim-patel/Simple_Calculator)
+
 Simple Calculator Chrome Extension
 =========
 
